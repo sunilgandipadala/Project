@@ -3,6 +3,10 @@ body{
 	color:black;
 	background-color: white;
 }
+a{
+	align-content: center;
+	position: fixed;
+}
 #header-nav{
 	background-image:linear-gradient(to bottom,red,yellow);
 	border-radius: 0;
@@ -61,4 +65,3 @@ p{
 	font-family: 'Nunito', sans-serif;
 	font-weight: normal;
 }
-
